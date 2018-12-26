@@ -1,3 +1,3 @@
 $VIRTUOSO_PREFIX = 'test'
 
-docker-compose -d -p $VIRTUOSO_PREFIX up
+docker-compose -p $VIRTUOSO_PREFIX up
