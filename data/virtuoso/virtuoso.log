@@ -1,0 +1,55 @@
+
+		Wed Dec 26 2018
+23:07:50 OpenLink Virtuoso Universal Server
+23:07:50 Version 07.20.3215-pthreads for Linux as of Nov 15 2017
+23:07:50 uses parts of OpenSSL, PCRE, Html Tidy
+23:07:50 SQL Optimizer enabled (max 1000 layouts)
+23:07:50 Compiler unit is timed at 0.000397 msec
+23:07:53 Checkpoint started
+23:07:53 Roll forward started
+23:07:53 Roll forward complete
+23:07:53 Checkpoint started
+23:07:53 Checkpoint finished, log reused
+23:07:53 Checkpoint started
+23:07:53 Checkpoint finished, log reused
+23:07:54 Checkpoint started
+23:07:54 Checkpoint finished, log reused
+23:07:55 Checkpoint started
+23:07:55 Checkpoint finished, log reused
+23:07:55 Checkpoint started
+23:07:55 Checkpoint finished, log reused
+23:07:55 PL LOG: Installing Virtuoso Conductor version 1.00.8754 (DAV)
+23:07:55 PL LOG: Installing with dependencies Virtuoso Conductor version 1.00.8754/2017-11-15 13:45 (DAV)
+23:07:55 Checkpoint started
+23:07:55 Checkpoint finished, log reused
+23:07:58 Checkpoint started
+23:07:58 Checkpoint finished, log reused
+23:07:58 PL LOG: Installation with dependencies complete
+23:07:58 Checkpoint started
+23:07:58 Checkpoint finished, log reused
+23:07:59 HTTP/WebDAV server online at 27015
+23:07:59 Server online at 1111 (pid 21)
+23:07:59 Server received signal 15
+23:07:59 Initiating quick shutdown
+23:07:59 Server shutdown complete
+
+		Wed Dec 26 2018
+23:07:59 OpenLink Virtuoso Universal Server
+23:07:59 Version 07.20.3215-pthreads for Linux as of Nov 15 2017
+23:07:59 uses parts of OpenSSL, PCRE, Html Tidy
+23:07:59 Database version 3126
+23:07:59 SQL Optimizer enabled (max 1000 layouts)
+23:08:00 Compiler unit is timed at 0.000138 msec
+23:08:01 Roll forward started
+23:08:01 Roll forward complete
+23:08:01 Checkpoint started
+23:08:01 Checkpoint finished, log reused
+23:08:03 HTTP/WebDAV server online at 8890
+23:08:03 Server online at 1111 (pid 1)
+23:15:38 PL LOG: Loader started
+23:15:38 PL LOG: No more files to load. Loader has finished,
+23:34:03 PL LOG: Loader started
+23:34:03 PL LOG: No more files to load. Loader has finished,
+23:44:25 Server received signal 15
+23:44:25 Initiating quick shutdown
+23:44:25 Server shutdown complete

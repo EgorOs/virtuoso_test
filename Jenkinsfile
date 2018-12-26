@@ -6,7 +6,8 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'ls'
+                sh 'chmod +x run.sh'
+                sh './run.sh'
             }
         }
     }
