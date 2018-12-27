@@ -1,5 +1,5 @@
 export VIRTUOSO_PREFIX='test'
 
 docker-compose -p $VIRTUOSO_PREFIX up -d
-echo 'wat'
+echo 'changed'
 docker-compose -p $VIRTUOSO_PREFIX stop
